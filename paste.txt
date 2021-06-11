@@ -1,0 +1,217 @@
+homepage.html
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>mcpropertieshp</title>
+    <link rel="stylesheet" href="cosmetics.css">
+    <h1>MC PROPERTIES&TRADE;</h1>
+    <hr>
+    <center> <a href="homepage.html">HOME</a>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="viewlistings.html">VIEW LISTINGS</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="aboutus.html">ABOUT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="contactus.html">CONTACT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <br>
+        <br>
+        <img src="images/bgimage.jpg" alt="" width="650" height="400">
+        <p> VIEW THIS EXQUISITE HOUSE OFF LUMUMBA DRIVE IN KIRIGI. <br> GOING AT
+        $50,000 WITH LUXURIOUS MASTER BEDROOM AND JACUZZI <br>
+        HURRY BEFORE IT IS TOO LATE TO LIVE IN SUCH AN ELEGANT HOUSE AT <br>
+        A SUPER CHEAP PRICE.</p>
+        <br>
+    <a href="viewlistings.html"> <font size="20px"></font>VIEW LISTINGS RIGHT NOW!</a>
+        <br> <br>
+    <img src="images/pic2.jpg" alt="" height="400" width="650">
+    <p>NO MORE TALL BUILDINGS IN THE NEIGHBOUR BLOCKING THE SUNSHINE <br>
+    IT IS TIME ENJOY THE VITAMIN-D AS MUCH AS POSSIBLE. <br> VIEW THIS WELL-CRAFTED PROPERTY AT GODONDE WOODS <br>
+     PRICING STARTS AT $70,000 </p>
+        <br>
+        <a href="viewlistings.html"> <font size="20px"></font>VIEW LISTINGS RIGHT NOW!</a>
+    </center>
+</head>
+<hr>
+<center> <p> ALL RIGHTS DESERVED &nbsp; &nbsp; MC PROPERTIES&TRADE; &nbsp; &nbsp;
+    TERMS AND CONDITIONS APPLY</p>  <br>
+<p> NEED HELP? </p>
+    <a href="contactus.html">CONTACT US</a>
+
+ </center>
+<body>
+
+</body>
+</html>
+
+
+
+
+viewlistings.html
+
+   <meta charset="UTF-8">
+    <title>viewlistings</title>
+    <link rel="stylesheet" href="cosmetics.css">
+    <h1>MC PROPERTIES&TRADE;</h1>
+    <hr>  <center> <a href="homepage.html">HOME</a>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="viewlistings.html">VIEW LISTINGS</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="aboutus.html">ABOUT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="contactus.html">CONTACT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <center>
+</head> <br> <br> <br>
+        <img src="images/pexels-binyamin-mellish-1396122.jpg" alt="" width="650" height="400"> <br>
+        <p> THIS IS A 5 BEDROOM, 3 BATHROOM, JACUZZI INCLUDED, MINI THEATER <br>
+            AND OTHER AMAZING ENTERTAINMENT FEATURES. <BR> PRICES START AT $120,000 LOCATED IN BOKINO HILLS<br>
+        CONTACT US FOR MORE INFO  </p>
+        <br> <br> <br>
+        <img src="images/pexels-expect-best-323780.jpg" alt="" width="650" height="400">
+        <br> <br> <br>
+        <p> THIS IS A 7 BEDROOM, 6 BATHROOM, SWIMMING POOL AND ENCLOSED JACUZZI <BR>
+           THE ECCENTRIC HOUSE IS  LOCATED IN COMORIVILE <BR>AND 5 MINUTES AWAY FROM THE PUBLIC BEACH MIANI. <BR>
+        PRICES START AT $190,000 <BR> CONTACT US FOR MORE INFO </p>
+        <BR> <BR> <BR> <BR> <BR> <BR> <BR>
+        <hr>
+        <center> <p> ALL RIGHTS DESERVED &nbsp; &nbsp; MC PROPERTIES&TRADE; &nbsp; &nbsp;
+            TERMS AND CONDITIONS APPLY</p>  <br>
+            <p> NEED HELP? </p>
+            <a href="contactus.html">CONTACT US</a>
+
+<body>
+
+</body>
+</html>
+
+
+
+
+aboutus.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ABOUT US</title>
+    <link rel="stylesheet" href="cosmetics.css">
+    <h1>MC PROPERTIES&TRADE;</h1>
+    <hr>  <center> <a href="homepage.html">HOME</a>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="viewlistings.html">VIEW LISTINGS</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="aboutus.html">ABOUT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+    <a href="contactus.html">CONTACT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; <br> <br> <br> <center>
+    <p> WE ARE THE LEADING REAL ESTATE COMPANY IN HOODVILLE FOR THE PAST TWO DECADES. <br> <br> <br> <br>
+    WITH OUR WELL DEVELOPED CUSTOMER CARE AND HELP, WE HELP CLIENTS FIND PROPERTIES RESEMBLING PARADISE <br> <br> <br> <br>
+     WITH OVER 12 MILLIONS SATISFIED CLIENTS THAT REVISIT US MONTHLY. <br> <br> <br> <br>
+        WHETHER YOU ARE BUYING, SELLING, RENTING OR RENOVATING WE ARE BY YOUR SIDE </p>
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>     <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<center> <p> ALL RIGHTS DESERVED &nbsp; &nbsp; MC PROPERTIES&TRADE; &nbsp; &nbsp;
+    TERMS AND CONDITIONS APPLY</p>  <br>
+    <p> NEED HELP? </p>
+    <a href="contactus.html">CONTACT US</a>
+
+</center>
+
+</body>
+</html>
+
+
+
+contactus.html
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CONTACT US</title>
+    <link rel="stylesheet" href="cosmetics.css">
+    <h1>MC PROPERTIES&TRADE;</h1>
+    <hr>
+    <br>
+    <center> <a href="homepage.html">HOME</a>  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="viewlistings.html">VIEW LISTINGS</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="aboutus.html">ABOUT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="contactus.html">CONTACT US</a> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <center>
+    <p> TELEPHONE LINE - 0722003344 <br> <br> <br>
+        EMAIL - MCPROPERTIES@ICLOUD.COM <br> <br> <br>
+        VISIT US - LAVEL ROAD OPPOSITE TRUMP TOWERS</p>
+</head>
+<body>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<center> <p> ALL RIGHTS DESERVED &nbsp; &nbsp; MC PROPERTIES&TRADE; &nbsp; &nbsp;
+    TERMS AND CONDITIONS APPLY</p>  <br>
+    <p> NEED HELP? </p>
+    <a href="contactus.html">CONTACT US</a>
+
+</center>
+
+</body>
+</html>   
+
+
+cosmetics.css
+
+
+
+h1{
+    font-family: "Typo Formal Demo";
+    size: 9px;
+    text-align: center;
+    color: lightblue;
+}
+a{ font-family: "Typo Formal Demo";
+    text-align: center;
+    color: lightblue;
+    text-effect: outline;
+    margin: 0;
+}
+body{
+    background-color: dimgrey;
+
+}
+img{ alignment: center;
+backdrop-filter: blur(5px)
+;
+}
+p{
+    font-family: "Typo Formal Demo";
+    text-align: center;
+    color: lightblue;
+}
